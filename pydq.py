@@ -15,7 +15,7 @@ def calculate_rank(row):
     if row['dimesnsion'] == 'completness':
         if row['score'] == 100:
             a1+=0
-            return a1
+            return a11
         elif row['score'] < 98:
             a1+=10
             return a1
