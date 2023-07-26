@@ -7,7 +7,7 @@ data = {
     'score': [100, 100, 98, 98, 99, 98,95]
 }
 df = pd.DataFrame(data)
-def calculate_rank(row):fdgdgd
+def calculate_rank(row):
     a1=0
     b1=0
     c1=0
